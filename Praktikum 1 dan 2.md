@@ -15,7 +15,7 @@
 ## 2.1 Proses Instalasi
 Saya hanya memasukkan bukti telah menginstall VMware dan Linux/Ubuntu, dan saya juga telah mengikuti prosedur instalasi yang terdapat pada modul.
 ![Contoh Gambar](https://github.com/Kingfroze/Bahij-Ammar-Dzakwan-Al-Faiq_09011182328018-Semester3_Praktikum-SO/blob/main/Sistem%20Operasi/Screenshot%202024-08-29%20141554.png)
-
+![Contoh Gambar](https://github.com/Kingfroze/Bahij-Ammar-Dzakwan-Al-Faiq_09011182328018-Semester3_Praktikum-SO/blob/main/Sistem%20Operasi/Screenshot%202024-08-29%20141806.png)
 ## 2.2 Analisis / pada opsi mount point
 Pada sistem operasi Linux, direktori root (`/`) adalah direktori tertinggi dalam hierarki sistem. Jika kita tidak memilih root sebagai mount point, maka sistem operasi tidak tahu akan memulai dari mana hierarki file sistemnya.
 
