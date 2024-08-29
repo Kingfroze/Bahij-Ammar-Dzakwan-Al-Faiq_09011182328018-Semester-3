@@ -18,7 +18,7 @@ Saya hanya memasukkan bukti telah menginstall VMware dan Linux/Ubuntu, dan saya 
 ![Contoh Gambar](https://github.com/Kingfroze/Bahij-Ammar-Dzakwan-Al-Faiq_09011182328018-Semester3_Praktikum-SO/blob/main/Sistem%20Operasi/Screenshot%202024-08-29%20141806.png)
 ## 2.2 Analisis / pada opsi mount point
 Pada sistem operasi Linux, direktori root (`/`) adalah direktori tertinggi dalam hierarki sistem. Jika kita tidak memilih root sebagai mount point, maka sistem operasi tidak tahu akan memulai dari mana hierarki file sistemnya.
-
+![Contoh Gambar](https://github.com/Kingfroze/Bahij-Ammar-Dzakwan-Al-Faiq_09011182328018-Semester3_Praktikum-SO/blob/main/Sistem%20Operasi/Screenshot%202024-08-29%20212646.png)
 ## 2.3 Penjelasan tentang ext4, ext3, swap, ntfs, fat32, btrfs
 
 ### 1. ext4 (Fourth Extended Filesystem)
