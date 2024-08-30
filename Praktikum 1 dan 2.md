@@ -1,3 +1,22 @@
+# LAPORAN  
+## PRAKTIKUM SISTEM OPERASI  
+### TUGAS 1 DAN 2  
+
+---
+
+### Disusun oleh:
+**Nama**: Bahij Ammar Dzakwan Al Faiq  
+**NIM**: 09011182328018  
+**Kelas**: SK3C  
+**Dosen Pengampu**: Adi Hermansyah, M. T.
+
+---
+
+### PROGRAM STUDI SISTEM KOMPUTER  
+### FAKULTAS ILMU KOMPUTER  
+### UNIVERSITAS SRIWIJAYA  
+**2024**
+
 # BAB I - PENDAHULUAN
 
 ## 1.1. Tujuan Praktikum
