@@ -9,6 +9,7 @@ baru.
 ![Alt Text](https://github.com/Kingfroze/Bahij-Ammar-Dzakwan-Al-Faiq_09011182328018-Semester3_Praktikum-SO/blob/main/galeri%20tugas%205/2.png)
 
 3.Urutkan file baru dengan cara membelokkan standard input.
+
 ![Alt Text](https://github.com/Kingfroze/Bahij-Ammar-Dzakwan-Al-Faiq_09011182328018-Semester3_Praktikum-SO/blob/main/galeri%20tugas%205/3.png)
 
 4.Urutkan file baru dengan cara membelokkan standard input dan standard output ke file baru.urut.
